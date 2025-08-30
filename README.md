@@ -4,7 +4,7 @@
 1. Clone this repositoy:
 
 ```bash
-git clone https://github.com/primenet.git
+git clone https://github.com/ziplik/primenet.git
 ```
 
 2. Go into project
